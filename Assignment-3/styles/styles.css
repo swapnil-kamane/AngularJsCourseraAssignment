@@ -1,0 +1,9 @@
+h1 {
+	margin-bottom: 30px;
+}
+input[type="text"] {
+	width: 200px;
+}
+.narrow-button {
+	margin-left: 10px;
+}
